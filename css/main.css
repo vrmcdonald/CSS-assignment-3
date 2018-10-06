@@ -140,7 +140,7 @@ a:hover {
 
 /* media queries below - only 1 is needed */
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 500px){
     img {
         display: none;
     }
@@ -150,4 +150,5 @@ a:hover {
     }
     #container {
         grid-template-columns: repeat(2, auto);
+    }
 }
